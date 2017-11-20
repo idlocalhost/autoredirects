@@ -1,0 +1,2 @@
+# autoredirects
+Safelink
